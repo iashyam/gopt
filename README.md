@@ -1,3 +1,12 @@
+```
+                    __
+   ____ _____  ____/ /_
+  / __ `/ __ \/ __ / __/
+ / /_/ / /_/ / /_/ / /_
+ \__, /\____/ .___/\__/
+/____/     /_/
+```
+
 # gopt
 
 When we are working together in a team. We share code by cloning the repository. But, we have to share the .env files manually through Whatsapp for something. I wondered if there is a way in which we can commit the .env files safely without the risk of leakage. And that's how gopt was born. Gopt is gofication of _gupt_ (hindi word to hidden). While is is also the short form of go encrypt. 
