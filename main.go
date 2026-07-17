@@ -7,9 +7,9 @@ import (
 )
 
 func main() {
-	fmt.Println("hello world")
 	input := "This is super secret"
 	hashed_input := hash(input)
+	fmt.Println("hello world!")
 	fmt.Printf("Input: %s\n hash:%s\n ", input, hashed_input)
 }
 
